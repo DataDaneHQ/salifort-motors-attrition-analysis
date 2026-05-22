@@ -21,28 +21,28 @@ I conducted a full analytics lifecycle engagement — from problem definition an
 ## Deliverables
 
 **1. Project Workflow**  
-[View →](https://1drv.ms/x/c/7fc1e21a85c52ea2/IQTlVCY1AgC3QafVgh1MDYeTAauPuurRpmOarZzH3q-GI8U?em=2&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True) Structured project plan detailing each phase from proposal through to model deployment — the roadmap that kept the engagement on track.
+[View](https://1drv.ms/x/c/7fc1e21a85c52ea2/IQTlVCY1AgC3QafVgh1MDYeTAauPuurRpmOarZzH3q-GI8U?em=2&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True) structured project plan detailing each phase from proposal through to model deployment — the roadmap that kept the engagement on track.
 
 **2. PACE Strategy Document**  
-[View →](Resources/PACE_Strategy_Document_Salifort.pdf) High-level strategic plan defining the problem, objectives, methodology, and expected business impact before any analysis began.
+[View](Resources/PACE_Strategy_Document_Salifort.pdf) high-level strategic plan defining the problem, objectives, methodology, and expected business impact before any analysis began.
 
 **3. Project Proposal**  
-[View →](Resources/Project_Proposal_Salifort.pdf) Formal proposal outlining scope, key deliverables, stakeholder considerations, and timeline.
+[View](Resources/Project_Proposal_Salifort.pdf) formal proposal outlining scope, key deliverables, stakeholder considerations, and timeline.
 
 **4. Data Cleaning**  
-[Jupyter Notebook →](Resources/JPNB_Data_Cleaning.ipynb) Preprocessing steps applied to ensure data accuracy — missing values, feature engineering, and dataset transformations documented in full.
+[Jupyter Notebook](Resources/JPNB_Data_Cleaning.ipynb) preprocessing steps applied to ensure data accuracy — missing values, feature engineering, and dataset transformations documented in full.
 
 **5. EDA & Visualisation**  
-[Jupyter Notebook →](Resources/JPNB_EDA.ipynb) Exploration of key attrition trends and patterns using visualisations and statistical analysis to inform model development.
+[Jupyter Notebook](Resources/JPNB_EDA.ipynb) exploration of key attrition trends and patterns using visualisations and statistical analysis to inform model development.
 
 **6. Model Development**  
-[Jupyter Notebook →](Resources/JPNB_Model_Development.ipynb) Full modelling process — feature selection, training across four model types (Logistic Regression, Decision Tree, Random Forest, XGBoost), hyperparameter tuning, and evaluation.
+[Jupyter Notebook](Resources/JPNB_Model_Development.ipynb) full modelling process — feature selection, training across four model types (Logistic Regression, Decision Tree, Random Forest, XGBoost), hyperparameter tuning, and evaluation.
 
 **7. Executive Report**  
-[View →](https://www.canva.com/design/DAGgDgFKfWY/9Zz-sN37dAtV2MHR21pbYw/view?utm_content=DAGgDgFKfWY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0c8b74c729) Concise business report summarising findings, model performance, and actionable HR recommendations for reducing attrition risk.
+[View](https://www.canva.com/design/DAGgDgFKfWY/9Zz-sN37dAtV2MHR21pbYw/view?utm_content=DAGgDgFKfWY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0c8b74c729) concise business report summarising findings, model performance, and actionable HR recommendations for reducing attrition risk.
 
 **8. Slide Presentation**  
-[View →](https://www.canva.com/design/DAGgDslLy2Q/OJxVu1KgBz91a2crJsjsdQ/view?utm_content=DAGgDslLy2Q&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4f61f6a9d5) Visual summary of key project insights in a carousel format — built for stakeholder communication and public sharing.
+[View](https://www.canva.com/design/DAGgDslLy2Q/OJxVu1KgBz91a2crJsjsdQ/view?utm_content=DAGgDslLy2Q&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4f61f6a9d5) visual summary of key project insights in a carousel format — built for stakeholder communication and public sharing.
 
 ---
 
