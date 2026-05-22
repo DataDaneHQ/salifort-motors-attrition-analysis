@@ -2,8 +2,6 @@
 
 *Can you predict who's about to quit before they do?*
 
----
-
 ## Overview
 
 Employee turnover at Salifort Motors was expensive and disruptive — and largely predictable, if you had the right model. The HR team needed to understand who was at risk of leaving, why, and what could be done about it before a resignation letter landed on their desk.
