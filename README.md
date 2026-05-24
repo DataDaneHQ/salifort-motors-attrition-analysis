@@ -6,7 +6,7 @@
 
 Employee turnover at Salifort Motors was expensive and disruptive — and largely predictable, if you had the right model. The HR team needed to understand who was at risk of leaving, why, and what could be done about it before a resignation letter landed on their desk.
 
-I conducted a full analytics lifecycle engagement — from problem definition and stakeholder alignment through to model development, evaluation, and executive delivery. Four models were tested against workforce data. XGBoost emerged as the clear winner. Key drivers of attrition — tenure-based risk, workload burnout, career stagnation, and compensation gaps — were isolated and translated into specific, actionable HR recommendations.
+Developed as part of the Google Advanced Data Analytics Professional Certificate, this project covers the full analytics lifecycle — from problem definition and stakeholder alignment through to model development, evaluation, and executive delivery. Four models were tested against workforce data. XGBoost emerged as the clear winner. Key drivers of attrition — tenure-based risk, workload burnout, career stagnation, and compensation gaps — were isolated and translated into specific, actionable HR recommendations.
 
 **The result:** A predictive model achieving 96.7% AUC-ROC — a reliable early warning system for HR decision-making, with concrete recommendations that give leadership a clear path to improving retention before attrition becomes a cost problem.
 
